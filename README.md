@@ -59,8 +59,7 @@ the active set, the code will have to be extended.
 #### Output:
   1.   Header
   2.   List of closed shells
-  3.   Configurations      : FORMAT(8(1X,A3,'(',I2,')'))
-  4.   and their couplings : FORMAT(15(1X,A3)) 
+  3.   Configurations and their couplings
 
 ### References
 * [1] C. F. Fischer and Bin Liu, Computer Physics Communications, 64,  406 (1991)
