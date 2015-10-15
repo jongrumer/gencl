@@ -3,7 +3,7 @@
 
 A code for GEN-eration of C-onfiguration state function L-ists
 
-* Modern fortran version of the gencsl(f) based on latest ATSP2K version [3].
+* Modern fortran version of gencsl(f), based on latest ATSP2K version [3].
 * Development version -- use with caution!
 
 This program computes all possible couplings for each member of
