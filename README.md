@@ -19,7 +19,7 @@ Authors                        | Year | Version description
 ------------------------------ | ---- | ----------------------------------------
 C. Froese Fischer and Bin Liu  | 1983 | Original Version, published 1991 [1,2]
 G. Gaigalas                    | 1997 | Added support for f-shells
-J. Grumer                      | 2015 | Cleaned up and translated to modern Fortran
+J. Grumer                      | 2015 | Cleaned and re-implemented in modern Fortran
 
 ### Description (from [1])
 
