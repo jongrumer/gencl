@@ -2129,10 +2129,11 @@
 ! Local variables
 !
       CHARACTER*3 CH3, ELC(NELS)
-      INTEGER I, J, K, L, MARK, MC, N, NP, PP(NCFG), QA(NELS), QC(NELS),
-     &        QQ
+      INTEGER I, J, K, L, MARK, MC, N, NP/0/, PP(NCFG), QA(NELS), 
+     &        QC(NELS), QQ
       INTEGER LVAL
       EXTERNAL LVAL
+      SAVE NP
 !
 
 
